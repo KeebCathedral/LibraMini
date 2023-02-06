@@ -1,5 +1,6 @@
 # LibraMini
 Libra Mini software files
+
 Use the LIBRA MINIvia.json file on vial (NOT VIA) keyboard software.
 Click File>Sideload VIA JSON, then select your LIBRA MINIvia.json file. At this point your libra mini can already be connected to your computer, or you can plug it in after sideloading.
 
